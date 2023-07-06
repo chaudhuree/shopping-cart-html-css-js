@@ -2,4 +2,4 @@
 
 **additional feature:** localstorage
 
-> _used :_ DOMContentLoaded, es6 syntax, toLocaleString -> to convery any currency into bd taka
+> _used :_ DOMContentLoaded, es6 syntax, toLocaleString -> to convert any currency into bd taka
